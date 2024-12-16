@@ -41,7 +41,5 @@ namespace MyApp
             }
             else Console.WriteLine("Aucune taille ne vous correspond ");
         }
-
-
-}
     }
+ }
