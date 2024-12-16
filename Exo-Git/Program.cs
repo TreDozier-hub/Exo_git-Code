@@ -45,13 +45,3 @@ namespace MyApp
 
 }
     }
-
-
-     //if (number > 10)
-//{
-//    Console.WriteLine("Le nombre est supérieur à 10");
-//}
-//       else
-//{
-//    Console.WriteLine("Le nombre est inférieur à 10");
-//}
